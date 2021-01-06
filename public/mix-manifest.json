@@ -1,0 +1,11 @@
+{
+    "/js/api.js": "/js/api.js",
+    "/js/branch.js": "/js/branch.js",
+    "/js/ckeditor.js": "/js/ckeditor.js",
+    "/js/customer.js": "/js/customer.js",
+    "/js/role.js": "/js/role.js",
+    "/js/user.js": "/js/user.js",
+    "/js/vendor.js": "/js/vendor.js",
+    "/css/vendor.css": "/css/vendor.css",
+    "/css/sale.css": "/css/sale.css"
+}

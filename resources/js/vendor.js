@@ -1,0 +1,12 @@
+import jquery from 'jquery';
+import iziToast from "izitoast/dist/js/iziToast.min";
+window.$ = window.jQuery = jquery;
+window.iziToast = iziToast;
+require('./bootstrap');
+require('jquery-validation');
+require('jquery-confirm');
+require('datatables.net-bs4');
+require('jquery.nicescroll');
+require('select2');
+require('./stisla');
+require('./script');

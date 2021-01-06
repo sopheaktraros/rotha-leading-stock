@@ -1,0 +1,33 @@
+.main-sidebar .sidebar-brand{
+  a{
+    display: inline-block;
+  span.img-logo {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    background-color: #efefef;
+    border-radius: 50%;
+    img{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+  }
+  &.sidebar-brand-sm{
+    span.img-logo {
+      height: 45px;
+      width: 45px;
+      background-color: #efefef;
+      border-radius: 50%;
+      display: inline-block;
+      top: 15px;
+      position: relative;
+      img{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+  }
+}

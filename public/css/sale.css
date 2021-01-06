@@ -1,0 +1,10 @@
+.navbar-bg {
+  height: 70px;
+  background-color: #003664;
+}
+
+body.sidebar-mini .main-content,
+body.sidebar-mini .main-footer {
+  padding-left: 75px;
+}
+
